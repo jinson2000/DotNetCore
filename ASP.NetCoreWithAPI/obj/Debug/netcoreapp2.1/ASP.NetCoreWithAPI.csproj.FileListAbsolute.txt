@@ -1,0 +1,14 @@
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\bin\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.deps.json
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\bin\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.runtimeconfig.json
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\bin\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.runtimeconfig.dev.json
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\bin\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.dll
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\bin\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.pdb
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.csproj.CoreCompileInputs.cache
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.RazorAssemblyInfo.cache
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.RazorAssemblyInfo.cs
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.AssemblyInfoInputs.cache
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.AssemblyInfo.cs
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.RazorTargetAssemblyInfo.cache
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.dll
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.pdb
+C:\Users\JacobJ\source\repos\Project\ASP.NetCoreWithAPI\ASP.NetCoreWithAPI\obj\Debug\netcoreapp2.1\ASP.NetCoreWithAPI.csprojAssemblyReference.cache
